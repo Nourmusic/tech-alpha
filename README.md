@@ -2,9 +2,8 @@
 <p>&nbsp;</p>
 <div class="ap-connt post-body entry-content float-container">
 <div dir="rtl">
-<p style="text-align: center;"><span style="color: #0000ff;"><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alpha Tech is mainly concerned with technical content and technology, as well as other useful areas related to health culture. </font></font></span><span style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We aspire behind “Alpha Technology” to enrich the Arabic electronic content that suffers from copying and pasting to the extent that it has become one of the worst and worst content on the Internet at all levels.</font></font></span></span></strong></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alpha Tech is mainly concerned with technical content and technology, <a href="https://www.tech-alpha.com">ألفا التقنية</a> as well as other useful areas related to health culture. </font></font></span><span style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We aspire behind “Alpha Technology” to enrich the Arabic electronic content that suffers from copying and pasting to the extent that it has become one of the worst and worst content on the Internet at all levels.</font></font></span></span></strong></span></p>
 </div>
-<a href="https://www.tech-alpha.com">ألفا التقنية
 </div>
 <p>&nbsp;</p>
 <div class="ap-connt post-body entry-content float-container">
